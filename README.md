@@ -3,7 +3,6 @@
 * [Code](https://github.com/noah992/interpretation-of-linearregression/blob/main/code/interpretation-of-linearregression.ipynb)
 * [Dataset](https://github.com/noah992/interpretation-of-linearregression/blob/main/data/orange_juice.csv)
 
----
 
 ## Summary
 
