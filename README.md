@@ -1,25 +1,22 @@
 # interpretation-of-linearregression (building...)
 
----
-
 * [Code](https://github.com/noah992/interpretation-of-linearregression/blob/main/code/interpretation-of-linearregression.ipynb)
 * [Dataset](https://github.com/noah992/interpretation-of-linearregression/blob/main/data/orange_juice.csv)
 
 ---
 
 ## Summary
+
 * Objective
 * Modeling
 * Interpretation
 
----
 
 ## Objective
 
 This repo is built for an explanation of interpretaion of a model.
 I made an [article](https://noah992.medium.com/how-to-interpret-a-linearregression-model-data-science-26ba4440a1a1) to demonstrate how to interpret a model. This repo contains a dataset and code for the article.
 
----
 
 ## Modeling
 I used below data to predict prices of orange juice with `LinearRegression`
@@ -39,7 +36,6 @@ I used below data to predict prices of orange juice with `LinearRegression`
 |season_Summer|3.057|
 |season_Winter|-1.855|
 
----
 
 ## Interpretation
 
